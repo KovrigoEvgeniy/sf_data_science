@@ -1,22 +1,22 @@
 # Project 0. Number Guesser
 
 ## Contents
-[1. Project description](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0/README.md#Project-description)  
+[1. Project description](README.md#Project-description)  
 
-[2. Case details](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Case-details)  
+[2. Case details](README.md#Case-details)  
 
-[3. Data summary](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Data-summary)  
+[3. Data summary](README.md#Data-summary)  
 
-[4. Project stages](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Project-stages)  
+[4. Project stages](README.md#Project-stages)  
 
-[5. Results](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Results)  
+[5. Results](README.md#Results)  
 
-[6. Conclusion](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Conclusion)  
+[6. Conclusion](README.md#Conclusion)  
 
 ### Project description  
 Program that guesses a number over minimal number of attempts  
 
-:arrow_up:[Contents](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Contents)  
+:arrow_up:[Contents](README.md#Contents)  
 
 
 ### Case details  
@@ -33,30 +33,30 @@ The results are measured over 1000 rounds, the goal is to use as few attempts as
 **Practice goal:**  
 Learning to write good code in Python  
 
-:arrow_up:[Contents](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Contents)  
+:arrow_up:[Contents](README.md#Contents)  
 
 
 ### Data summary  
 .....  
 
-:arrow_up:[Contents](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Contents)  
+:arrow_up:[Contents](README.md#Contents)  
 
 
 ### Project stages  
 .....  
 
-:arrow_up:[Contents](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Contents)  
+:arrow_up:[Contents](README.md#Contents)  
 
 
 ### Results  
 .....  
 
-:arrow_up:[Contents](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Contents)
+:arrow_up:[Contents](README.md#Contents)
 
 
 ### Conclusion  
 .....  
 
-:arrow_up:[Contents](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Contents)  
+:arrow_up:[Contents](README.md#Contents)  
 
 
