@@ -1,7 +1,7 @@
 # Project 0. Number Guesser
 
 ## Contents
-[1. Project discription](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0/README.md#Project-discription)  
+[1. Project description](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0/README.md#Project-description)  
 
 [2. Case details](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Case-details)  
 
@@ -13,7 +13,7 @@
 
 [6. Conclusion](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Conclusion)  
 
-### Project discription  
+### Project description  
 Program that guesses a number over minimal number of attempts  
 
 :arrow_up:[Contents](https://github.com/KovrigoEvgeniy/sf_data_science/tree/main/Project_0#Contents)  
