@@ -24,11 +24,11 @@ The goal is to write a programm that can guess a number while using as few attem
 
 **Conditions:**  
 - A random number from 1 to 100 is generated and our code needs to guess the number 
-- The algo checks if the number it is currently checking is higher or lower than the one we're looking for  
-- The goal is for the algo to guess the number in less than 20 attempts
+- The program checks if the number it is currently checking is higher or lower than the one we're looking for  
+- The goal is for the program to guess the number in less than 20 attempts
 
 **Quality metric:**  
-The results are measured over 1000 rounds, the goal is to use as few attempts as possible
+The results are measured over 1000 rounds, the desired outcome is to use as few as possible attempts per round on average 
 
 **Practice goal:**  
 Learning to write good code in Python  
@@ -43,7 +43,9 @@ Learning to write good code in Python
 
 
 ### Project stages  
-.....  
+- game_final_task.py is the version that is submited for scoring
+- game_v2.py is the initial version of the automated guessing used for learning  
+- game.py is the manual version of the game  
 
 :arrow_up:[Contents](README.md#Contents)  
 
