@@ -23,11 +23,12 @@ Program that guesses a number over minimal number of attempts
 The goal is to write a programm that can guess a number while using as few attempts as possible.  
 
 **Conditions:**  
-- A random number from 0 to 100 is generated and our code needs to guess the number  
+- A random number from 1 to 100 is generated and our code needs to guess the number 
 - The algo checks if the number it is currently checking is higher or lower than the one we're looking for  
+- The goal is for the algo to guess the number in less than 20 attempts
 
 **Quality metric:**  
-The results are measured over 1000 rounds  
+The results are measured over 1000 rounds, the goal is to use as few attempts as possible
 
 **Practice goal:**  
 Learning to write good code in Python  
