@@ -28,10 +28,11 @@ The goal is to write a programm that can guess a number while using as few attem
 - The goal is for the program to guess the number in less than 20 attempts
 
 **Quality metric:**  
-The results are measured over 1000 rounds, the desired outcome is to use as few as possible attempts per round on average 
+The results are measured over 1000 rounds, the desired outcome is to use as few attempts as possible per round on average 
 
 **Practice goal:**  
 Learning to write good code in Python  
+Learning to work with IDE and Github
 
 :arrow_up:[Contents](README.md#Contents)  
 
