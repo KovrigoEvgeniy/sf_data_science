@@ -29,12 +29,14 @@ def game_core_v3(number:int=1) -> int:
             guess_upper = predict_number
         
         # Predict a new number using updated boundaries
-        # Treating the 99 edge case caused by rounding the average down 
+        # Treat the 99 edge case caused by rounding the average down 
         if predict_number == 99: 
-            predict_number = 100 # In case already checked 99 and it wasn't correct
+            predict_number = 100 
         else:
             predict_number = (guess_upper+guess_lower)//2 
+            
     return(count)
+
 
 def score_game(game_core_v3) -> int:
     """Out of 1000 attempts how many tries it takes to guess on average
@@ -48,14 +50,14 @@ def score_game(game_core_v3) -> int:
     
     count_ls = [] # List used for storing the number of attempts
     np.random.seed(1) #Fixed seed for reproducibility
-    random_array = np.random.randint(1,101, size=(1000)) # prepare the numbers to guess
+    random_array = np.random.randint(1,101, size=(1000)) # Prepare the numbers to guess
     
     for number in random_array:
         count_ls.append(game_core_v3(number))
         
     score = int(np.mean(count_ls)) # Finding the average number of attempts
     
-    print(f'Your algo takes {score} attempts on average to guess the number') 
+    print(f'It took the program {score} attempts on average to guess the number') 
     return(score)
 
 
