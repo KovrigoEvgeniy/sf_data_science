@@ -44,7 +44,7 @@ Learning to work with IDE and Github
 
 
 ### Project stages  
-- game_final_task.py is the version that is submited for scoring
+- game_final_task.py is the version that is submitted for scoring
 - game_v2.py is the initial version of the automated guessing used for learning  
 - game.py is the manual version of the game  
 
