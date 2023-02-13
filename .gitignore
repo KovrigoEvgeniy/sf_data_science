@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+test.py
+Skillfactory/Python-10 Pandas introduction/Practice.ipynb
+Skillfactory/Python-10 Pandas introduction/Theory.ipynb
+.gitignore
+Skillfactory/Python-10 Pandas introduction/1 Theory.ipynb
+Skillfactory/Python-10 Pandas introduction/2 Practice.ipynb
+Skillfactory/Python-10 Pandas introduction/Data/countries.csv
+Skillfactory/Python-10 Pandas introduction/Data/melb_data.csv
+test.ipynb
