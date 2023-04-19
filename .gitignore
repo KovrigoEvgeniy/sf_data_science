@@ -128,11 +128,47 @@ dmypy.json
 # Pyre type checker
 .pyre/
 test.py
-Skillfactory/Python-10 Pandas introduction/Practice.ipynb
-Skillfactory/Python-10 Pandas introduction/Theory.ipynb
-.gitignore
+test.ipynb
+
 Skillfactory/Python-10 Pandas introduction/1 Theory.ipynb
 Skillfactory/Python-10 Pandas introduction/2 Practice.ipynb
 Skillfactory/Python-10 Pandas introduction/Data/countries.csv
 Skillfactory/Python-10 Pandas introduction/Data/melb_data.csv
-test.ipynb
+Skillfactory/Python-10 Pandas introduction/Data/students_performance.csv
+
+Skillfactory/Python-11 Pandas data basics/1 Theory.ipynb
+Skillfactory/Python-11 Pandas data basics/2 Practice.ipynb
+Skillfactory/Python-11 Pandas data basics/Data/melb_data_ps.csv
+Skillfactory/Python-11 Pandas data basics/Data/citibike-tripdata.csv
+
+Skillfactory/Python-12 Pandas data advanced/1 Theory.ipynb
+Skillfactory/Python-12 Pandas data advanced/2 Practice.ipynb
+Skillfactory/Python-12 Pandas data advanced/Data/melb_data_fe.csv
+Skillfactory/Python-12 Pandas data advanced/Data/dates.csv
+Skillfactory/Python-12 Pandas data advanced/Data/movies.csv
+Skillfactory/Python-12 Pandas data advanced/Data/ratings1.csv
+Skillfactory/Python-12 Pandas data advanced/Data/ratings2.csv
+Skillfactory/Python-12 Pandas data advanced/Data/orders.csv
+Skillfactory/Python-12 Pandas data advanced/Data/products.csv
+Skillfactory/Python-12 Pandas data advanced/Data/ratings_movies.csv
+Skillfactory/Python-13 Data visualization/1 Theory.ipynb
+Skillfactory/Python-13 Data visualization/2 Practice.ipynb
+Skillfactory/Python-13 Data visualization/13.9 Client Loyalty Campaign.ipynb
+Skillfactory/Python-13 Data visualization/Client Loyalty Campaign result.ipynb
+Skillfactory/Python-13 Data visualization/Types_of_visualization.ipynb
+Skillfactory/Python-13 Data visualization/Visualizaion_Matplotlib.ipynb
+Skillfactory/Python-13 Data visualization/Visualization_Pandas.ipynb
+Skillfactory/Python-13 Data visualization/Visualization_Plotly.ipynb
+Skillfactory/Python-13 Data visualization/Visualization_Seaborn.ipynb
+Skillfactory/Python-13 Data visualization/Data/churn.csv
+Skillfactory/Python-13 Data visualization/Data/country_vaccinations.csv
+Skillfactory/Python-13 Data visualization/Data/covid_data.csv
+Skillfactory/Python-13 Data visualization/Data/covid_df.csv
+Skillfactory/Python-13 Data visualization/Plotly/scatter_3d.html
+Skillfactory/Python-14 Data cleaning/1 Theory.ipynb
+Skillfactory/Python-14 Data cleaning/2 Practice.ipynb
+Skillfactory/Python-14 Data cleaning/Data/diabetes_data.csv
+Skillfactory/Python-14 Data cleaning/Data/sber_data.csv
+Skillfactory/Python-15 OOP/1 Theory.ipynb
+Skillfactory/Python-15 OOP/2 Practice.ipynb
+Skillfactory/Python-15 OOP/archive/23-04-12.pkl
