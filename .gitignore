@@ -151,6 +151,7 @@ Skillfactory/Python-12 Pandas data advanced/Data/ratings2.csv
 Skillfactory/Python-12 Pandas data advanced/Data/orders.csv
 Skillfactory/Python-12 Pandas data advanced/Data/products.csv
 Skillfactory/Python-12 Pandas data advanced/Data/ratings_movies.csv
+
 Skillfactory/Python-13 Data visualization/1 Theory.ipynb
 Skillfactory/Python-13 Data visualization/2 Practice.ipynb
 Skillfactory/Python-13 Data visualization/13.9 Client Loyalty Campaign.ipynb
@@ -165,10 +166,22 @@ Skillfactory/Python-13 Data visualization/Data/country_vaccinations.csv
 Skillfactory/Python-13 Data visualization/Data/covid_data.csv
 Skillfactory/Python-13 Data visualization/Data/covid_df.csv
 Skillfactory/Python-13 Data visualization/Plotly/scatter_3d.html
+
 Skillfactory/Python-14 Data cleaning/1 Theory.ipynb
 Skillfactory/Python-14 Data cleaning/2 Practice.ipynb
 Skillfactory/Python-14 Data cleaning/Data/diabetes_data.csv
 Skillfactory/Python-14 Data cleaning/Data/sber_data.csv
+
 Skillfactory/Python-15 OOP/1 Theory.ipynb
 Skillfactory/Python-15 OOP/2 Practice.ipynb
 Skillfactory/Python-15 OOP/archive/23-04-12.pkl
+
+example.md
+Skillfactory/Python-15.5 GIthub project/data_cleaning_example.ipynb
+Skillfactory/Python-15.5 GIthub project/data/sber_data.csv
+Skillfactory/Python-15.5 GIthub project/images/boxplot.png
+Skillfactory/Python-15.5 GIthub project/images/data_cleaning.png
+Skillfactory/Python-15.5 GIthub project/images/example_outliers.png
+Skillfactory/Python-15.5 GIthub project/images/method_sigm.png
+Skillfactory/Python-15.5 GIthub project/outliers_lib/find_outliers.py
+Skillfactory/Python-15.5 GIthub project/outliers_lib/README.md
